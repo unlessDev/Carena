@@ -8,25 +8,25 @@ b = int(input("2do valor: "))
 c = int(input("3er valor: "))
 
 if a >= b and a >= c:
-    maximo = a
+    max = a
 elif b >= c:
-    maximo = b
+    max = b
 else:
-    maximo = c
+    max = c
 
 # Contamos repeticiones del máximo
-contador = 0
-if a == maximo:
-    contador += 1
-if b == maximo:
-    contador += 1
-if c == maximo:
-    contador += 1
+cont = 0
+if a == max:
+    cont += 1
+if b == max:
+    cont += 1
+if c == max:
+    cont += 1
 
 # Resultado
-if contador == 1:
-    print(f"El mayor es: {maximo}")
+if cont == 1:
+    print(f"El mayor es: {max}")
 else:
-    print(f"El mayor es {maximo} (aparece {contador} veces)")
+    print(f"El mayor es {max} (aparece {cont} veces)")
 
 print("Fin del programa")

@@ -14,16 +14,3 @@ C = math.sqrt( pow(catA,2) + pow(catB,2) )
 #Mostrar mensaje con el resultado de C.
 print()
 print("Resultado final: ", C)
-
-
-"""
-Rafactorizado:
-
-    try:
-    catA = float(input("Ingrese el valor del cateto A: "))
-    catB = float(input("Ingrese el valor del cateto B: "))
-    C = math.sqrt(catA ** 2 + catB ** 2)
-    print(f"\nLa hipotenusa es: {round(C, 2)}")  # Redondeado a 2 decimales
-except ValueError:
-    print("Error: Ingresa solo números.")
-"""
