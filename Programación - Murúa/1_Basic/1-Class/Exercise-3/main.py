@@ -13,4 +13,4 @@ resul = base * alt
 
 print()
 print("El resultado final de la superficie del cuadrado es: ", resul)
-#Mostrar mensaje y valor de superficie.
+#Mostrar mensaje y valor de superficie

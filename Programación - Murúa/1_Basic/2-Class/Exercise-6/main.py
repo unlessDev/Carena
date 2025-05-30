@@ -27,7 +27,6 @@ while True:
     elif a == maximo:
         contador += 1
 
-# Resultado
 if maximo is None:
     print("No se ingresaron números.")
 else:

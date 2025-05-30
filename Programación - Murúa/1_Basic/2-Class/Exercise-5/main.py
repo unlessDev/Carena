@@ -10,13 +10,13 @@
 print("Ingrese enteros positivos y verificaremos cual de todos es el mayor.")
 print("Presione 0 para finalizar y obtener el resultado.")
 
-maximo = -1  # Inicializamos con un valor menor que todos los posibles
+maximo = -1
 
 while True:
     a = int(input("Valor: "))
     
     if a == 0:
-        break  # Salimos del bucle
+        break
     
     if a < 0:
         print("¡Solo se permiten positivos! Ingrese otro número.")
@@ -25,7 +25,6 @@ while True:
     if a > maximo:
         maximo = a
 
-# Mostramos el resultado
 if maximo == -1:
     print("No se ingresaron números válidos.")
 else:

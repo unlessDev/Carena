@@ -14,7 +14,6 @@ elif b >= c:
 else:
     max = c
 
-# Contamos repeticiones del máximo
 cont = 0
 if a == max:
     cont += 1
@@ -23,7 +22,6 @@ if b == max:
 if c == max:
     cont += 1
 
-# Resultado
 if cont == 1:
     print(f"El mayor es: {max}")
 else:
