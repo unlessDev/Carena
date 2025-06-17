@@ -1,0 +1,48 @@
+# La Ola
+
+La película es ubicada en Alemania y gran parte de su sinopsis está basada en Hitler y su régimen.
+
+- Una dictadura puede nacer de la insatisfacción de su gente. Las causas pueden ser la inflación, el descontento, el desempleo.
+- La disciplina no funciona con todo el mundo, un alumno se retiró de la clase.
+- Poder mediante la disciplina.
+- La película nos muestra cómo un alumno pasa un momento complicado en su casa y cómo empieza a sentirse agrupado y cómodo con el movimiento del grupo La Ola, sin querer que el grupo se desintegre, lo que le causa problemas emocionales.
+- Muestra cómo uno de los alumnos se fanatiza por este "régimen" o disciplina, haciendo locuras de por medio para demostrar su fanatismo.
+- El profesor causa en sus alumnos una división con la institución/universidad, fortaleciendo su unión con la excusa de pelear contra la clase que se encuentra debajo de ellos.
+- Todos los alumnos aprueban su régimen/método de enseñanza y esto causa insatisfacción en algunos.
+- El profesor menciona que debajo de él está el profesor Dylan, a quien considera anarquista, y el profesor principal está en contra de la competencia, fomentando la colaboración de los suyos. Incluso algunos alumnos de Dylan se pasan a la clase del profesor de autocracia.
+- Los alumnos proceden a vestirse todos igual con una camisa blanca. Lisa menciona que "esto elimina las diferencias sociales", mientras que otra estudiante opina que esto deshumaniza a las personas. Aquellos que no pueden adquirir una, otro integrante se la presta o compra. El vestirse igual fomenta aún más la unión de los integrantes.
+- El alumno fanatizado quema todas sus prendas coloridas.
+- Quienes no visten de blanco son considerados egoístas y que no colaboran. A una alumna la hacen sentir rechazada y menospreciada, incluso el profesor la ignora por un momento para hacerla sentir incómoda.
+- El grupo quiere fomentar su movimiento con un logo y haciendo saludos especiales como si fuera un código.
+- El integrante Tim, fanatizado, es agredido, pero otros integrantes del grupo La Ola lo defienden. Esto lo hace sentir querido/valorado y su fanatismo crece aún más.
+- Cuando los estudiantes estaban actuando para su obra, nos muestran cómo un estudiante se pone firme y empieza a regir a los demás. Los demás acceden fácilmente, demostrando cómo en ocasiones de problemas buscamos a alguien con capacidad de liderazgo. La alumna que no estuvo presente, quien no vistió de blanco, se molesta aún más, sintiéndose excluida y culpable.
+- El profesor empieza a disfrutar ser considerado líder, algo que su mujer le recuerda mencionando que otros profesores hablan de él.
+- Los alumnos salen a las calles para fomentar su movimiento, vandalizando con grafitis de "La Ola".
+- Los alumnos que estaban peleados se alían al considerar que el grupo es más importante que sus diferencias.
+- Vandalizan restaurantes, autos, estatuas e incluso un grafiti de los anarquistas, lo que causa enojo con el grupo anarquista y una pelea de bandas. El alumno fanatizado llevaba un arma de fuego y espanta a los anarquistas.
+- El estudiante fanatizado hace un grafiti en una estructura gigante, lo que se convierte en noticia para los diarios.
+- El saludo se convierte en algo simbólico y hay muchos ejemplos de esto.
+- En un momento, hay una escena en la que el profesor discute con una alumna que no desea participar en su movimiento. En la escena, el profesor la frena y obstruye el paso de otros profesores, dando una imagen de superioridad.
+- Las dos alumnas se van al taller de periodismo con la intención de evidenciar el movimiento y sus locuras.
+- La movilización se ve incluso en las redes y se observan agresiones hacia aquellos que piensan distinto o no se integran al movimiento de La Ola.
+- Tim, el fanático, se ofrece como guardaespaldas del profesor, mencionando que en casa no es bien recibido y que no tiene otro lugar.
+- El profesor lo deja cenar en su casa y la mujer del profesor se disgusta con la idea, no lo ve como algo normal.
+- La Ola se va de fiesta en las orillas de la playa, lo que fortalece al grupo y su movilización. De no haber existido el movimiento, probablemente los integrantes no se unirían, pero el movimiento es más fuerte que sus diferencias.
+- Tim no quiere separarse del profesor y se queda a dormir fuera de su casa, evidenciando su problema. El profesor lo nota y se preocupa.
+- El estudiante que tenía problemas en casa encuentra comodidad con el grupo, deja a su exnovia (que está en contra de la movilización de La Ola) y empieza a salir con otra integrante que apoya el movimiento.
+- Los anarquistas atacan el auto del profesor, quien se preocupa.
+- El profesor hace que todos los integrantes realicen un escrito donde expresen qué les causó el movimiento de La Ola.
+- El profesor no quiere saber quién hizo el acto de vandalismo en el edificio gigante, ya que, si se entera, deberá acudir a las autoridades. El chico fanático se siente orgulloso en vez de culpable por el acto de vandalismo.
+- Las dos alumnas que rechazaron las clases vuelven a ser retenidas para ver el partido de fútbol. Esta vez, logran evidenciar los problemas que está causando el movimiento La Ola y provocan un conflicto violento en el lugar.
+- La mujer del profesor lo deja en evidencia, comentando la locura que está causando por su egocentrismo. El profesor se defiende diciendo que ella es insegura y celosa por lo que él ha logrado.
+- Marco va con el profesor y le pide que detenga el experimento porque está causando algo difícil de explicar. El profesor le da la razón y organiza un encuentro para finalizar el proyecto.
+- Caro (la chica que está en contra del movimiento) tiene una situación con su exnovio Marco. Ella le dice que todo lo que pasa es una locura, él se molesta y la golpea.
+- El chico fanático actúa como guardaespaldas del profesor, lo que lo hace sentir especial.
+- El profesor da su último discurso sobre el proyecto, leyendo los escritos de sus alumnos, quienes mencionan que ahora se sienten agrupados y favorecidos con La Ola.
+- El profesor realiza una parodia a Hitler, mencionando la injusticia, los niveles bajos de empleo y a los millonarios como causantes del caos. Presenta La Ola como la solución a los problemas y evidencia a la exnovia de Marco, llamándola traidora.
+- Manda a atrapar a Marco, y todos lo obedecen. Incluso algunos alumnos mencionan que deberían herirlo físicamente.
+- Menciona que herir, torturar o matar a Marco es algo que haría una dictadura. Les recuerda lo que escucharon el primer día de clases: "La dictadura es algo que no va a volver a pasar".
+- El profesor menciona que lo ocurrido es un acto absolutamente fascista y que causó exclusión dentro del grupo. Se disculpa, reconoce que esto llegó demasiado lejos y dice que todo terminó. Sin embargo, muchos alumnos están en contra de finalizar el movimiento y los manda a reflexionar.
+- El estudiante fanático saca un arma, amenaza a todos, le dispara a un alumno y menciona que La Ola es su vida. Al darse cuenta de que todo terminó, decide quitarse la vida.
+- El profesor termina en la cárcel, dando fin a la película.
+- Muchos alumnos, conmocionados por lo ocurrido, se disculpan. Es el único momento en el que dejan atrás sus diferencias y creencias, uniéndose.

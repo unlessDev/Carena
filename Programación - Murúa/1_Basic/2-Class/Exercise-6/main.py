@@ -14,7 +14,7 @@ while True:
     except ValueError:
         print("Error: Ingrese un número entero válido.")
         continue
-    
+        
     if a == 0:
         break
     

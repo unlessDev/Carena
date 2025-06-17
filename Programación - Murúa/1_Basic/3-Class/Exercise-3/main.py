@@ -24,7 +24,7 @@ while True:
     if a == 0:
         break  # Salimos del bucle
     
-    if a < 0 and a > 999 :
+    if a < 0 or a > 999 :
         print("Valor fuera de rango...")
         continue
     

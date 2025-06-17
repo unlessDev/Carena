@@ -6,3 +6,4 @@
 # Contar y acumular los no divisibles por 2. (else)
 # Mostrar los resultados en caso de completar la lista.
 # En caso de no completar la lista mostrar el mensaje “No ha completado la lista de 12 números”.
+
